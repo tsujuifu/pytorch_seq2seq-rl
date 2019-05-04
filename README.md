@@ -3,6 +3,12 @@ A PyTorch template of seq2seq with RL training
 
 <img src='imgs/algo.png' width='60%' />
 
+This is a toy task of seq2seq which reversing the input list
+```
+[5, 6, 4, 6, 7] -> [7, 6, 4, 6, 5]
+[1, 3, 7, 8, 8, 9, 9] -> [9, 9, 8, 8, 7, 3, 1]
+```
+
 ## Usage
 ```
 Dataset/generator.ipynb
