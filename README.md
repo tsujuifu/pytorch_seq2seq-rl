@@ -10,10 +10,19 @@ This is a toy task of seq2seq which reversing the input list
 ```
 
 ## Usage
+
++ seq2seq
 ```
 Dataset/generator.ipynb
 model_seq2seq.ipynb
 model_seq2seq-rl.ipynb
 ```
+
++ MNIST (Classification)
+```
+mnist_ce.ipynb
+mnist_pb.ipynb
+```
+
 ## Reference
 + [REINFORCE Algorithm](http://mcneela.github.io/math/2018/04/18/A-Tutorial-on-the-REINFORCE-Algorithm.html)
