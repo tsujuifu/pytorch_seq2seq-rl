@@ -18,7 +18,7 @@ model_seq2seq.ipynb
 model_seq2seq-rl.ipynb
 ```
 
-+ MNIST (Classification)
++ MNIST (classification)
 ```
 mnist_ce.ipynb
 mnist_pb.ipynb
