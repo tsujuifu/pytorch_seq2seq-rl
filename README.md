@@ -21,7 +21,7 @@ model_seq2seq-rl.ipynb
 + MNIST (classification)
 ```
 mnist_ce.ipynb
-mnist_pb.ipynb
+mnist_pg.ipynb
 ```
 
 ## Reference
